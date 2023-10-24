@@ -1,1 +1,1 @@
-# ds4a23-retail-challenge
+# DS4A Retail Challenge (DA track)
